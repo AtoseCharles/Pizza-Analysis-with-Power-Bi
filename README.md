@@ -1,5 +1,5 @@
 # Pizza-Analysis-with-Power-Bi
-I analysis the Pizza sale trends with Power Bi and i was able to see the following:
+I analyzed the Pizza sales trends with Power Bi and i was able to see the following:
 #Total revenue 
 
 #Average order value 
